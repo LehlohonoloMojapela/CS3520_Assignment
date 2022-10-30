@@ -1,0 +1,2 @@
+# CS3520_Assignment
+202003182_Mojapela_Submission_of_Reversible_prime_squares_and_MIPS
